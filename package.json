@@ -1,7 +1,7 @@
 {
   "name": "@small-tech/import-fresh",
   "version": "1.0.0",
-  "description": "Import a fresh, uncached version of an EcmaScript Module (ESM; aka ES6 module/JavaScript Module).",
+  "description": "Import a fresh, uncached, version of an EcmaScript Module (ESM; aka ES6 module/JavaScript Module).",
   "main": "index.js",
   "type": "module",
   "scripts": {
