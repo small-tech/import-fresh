@@ -1,6 +1,6 @@
 # @small-tech/import-fresh
 
-Import a fresh, uncached version of an EcmaScript Module (ESM).
+Import a fresh, uncached version of an EcmaScript Module (ESM; aka ES6 module/JavaScript Module).
 
 ## Syntax
 
