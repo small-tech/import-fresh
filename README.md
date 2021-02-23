@@ -4,7 +4,7 @@ Import a fresh, uncached version of an EcmaScript Module (ESM; aka ES6 module/Ja
 
 ---
 
-___Note:__ This will leak memory and eventually crash your system. [Garbage collecting stale ESM modules is not a solved problem](https://github.com/nodejs/modules/issues/307) as of Feb, 2021._
+___Note:__ This will leak memory and eventually crash your system. [Garbage collecting stale ESM modules is not a solved problem](https://github.com/nodejs/modules/issues/307) as of Feb, 2021. Do not use this in production._
 
 ---
 
